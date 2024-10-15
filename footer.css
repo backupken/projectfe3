@@ -6,5 +6,7 @@
     bottom: 0;
     left: 0;
     width: 100%;
+}
+.bottomnav div p{
     margin-left: 2%;
 }
