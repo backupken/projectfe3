@@ -5,3 +5,8 @@ body{
     margin-right: auto;
     margin-left: auto;
 }
+.bottomnav{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
