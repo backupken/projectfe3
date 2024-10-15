@@ -1,5 +1,7 @@
 body{
     background-color: white;
-    margin-left: 2%;
-    margin-right: 2%;
+}
+#introduction{
+    margin-right: auto;
+    margin-left: auto;
 }
